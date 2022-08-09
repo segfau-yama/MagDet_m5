@@ -2,9 +2,9 @@
 #include <M5Stack.h>
 #include <HTTPClient.h>
 #include <ArduinoJson.h>
-#define MY_SSID "yamamoto"
-#define MY_PASS "suiki32"
-#define URL "http://192.168.0.219:54321"
+#define MY_SSID "***"
+#define MY_PASS "***"
+#define URL "http://***"
 #define PIN1 19
 
 StaticJsonDocument<200> availability;
